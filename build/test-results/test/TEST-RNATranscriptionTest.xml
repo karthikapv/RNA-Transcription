@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="RNATranscriptionTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2022-01-02T17:59:39" hostname="Karthikas-MacBook-Pro.local" time="0.027">
+  <properties/>
+  <testcase name="testEmptyRNASequence()" classname="RNATranscriptionTest" time="0.021"/>
+  <testcase name="testRNATranscriptionOfThymineIsAdenine()" classname="RNATranscriptionTest" time="0.001"/>
+  <testcase name="testRNATranscriptionOfAdenineIsUracil()" classname="RNATranscriptionTest" time="0.001"/>
+  <testcase name="testRNATranscription()" classname="RNATranscriptionTest" time="0.0"/>
+  <testcase name="testRNATranscriptionOfCytosineIsGuanine()" classname="RNATranscriptionTest" time="0.0"/>
+  <testcase name="testRNATranscriptionOfGuanineIsCytosine()" classname="RNATranscriptionTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
